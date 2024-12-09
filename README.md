@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Jon
 - I like impact, technology, and progressive democracy.
-- I dressed up as a blue banana for Halloween (frozen banana).
-- I'm looking to collaborate on impactful projects that change how we live, how we engage with technology, and how we view communities.
-- - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on innovative AI projects, data analysis, and automation solutions. Whether it's developing cutting-edge algorithms, creating insightful data visualizations, or building robust automation tools, I'm game to push the boundaries of what's been done.
-- 📫 How to reach me .. There's a bed of rocks on the Northwest corner of Central Park. One of those rocks is more orange than the others. You'll find my contact information under it.  
+- I'm looking to collaborate on projects that change how we interact with technology, each other, and the systems we create (e.g., corporations).
+- Interests = AI + data (analytics) + user-centered design + navbars + Microsoft.  
+- 🌱 I’m currently learning.
+- 📫 You can find me in between a skatepark and a large park in NYC. jonathan@cosmosgenerate.com.
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: Finance and banking background but then I learned about building stuff.
+- ⚡ Fun fact: I feel both passionate and particular about navbars. 
 
 <!---
 jon-CosmosGenerate/jon-CosmosGenerate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

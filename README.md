@@ -3,7 +3,7 @@
 - I'm looking to collaborate on projects that change how we interact with technology, each other, and the systems we create (e.g., corporations).
 - Interests = AI + data (analytics) + user-centered design + navbars + Microsoft.  
 - 🌱 I’m currently learning.
-- 📫 You can find me in between a skatepark and a large park in NYC. jonathan@cosmosgenerate.com.
+- 📫 You can find me in between a skatepark and a large park in NYC. jonathan at cosmosgenerate dotCom.
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I feel both passionate and particular about navbars. 
 
